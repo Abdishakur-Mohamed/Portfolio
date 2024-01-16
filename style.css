@@ -1,0 +1,30 @@
+body {
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+.description {
+  background-color: #5c5c8a;
+}
+
+.info {
+  background-color: #3d3d5c;
+  padding-top: 100px;
+}
+
+nav {
+  /* background-color: white; */
+  display: flex;
+  /* justify-content: space-around; */
+  justify-content: space-between;
+  font-size: xx-large;
+}
+
+.description {
+  display: flex;
+}
+
+.right-side {
+  padding: 150px;
+  margin: 100px;
+}
